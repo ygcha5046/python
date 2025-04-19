@@ -26,4 +26,4 @@ async def on_message(message):
         await message.channel.send('안녕하세요, 어떻게 도와드릴까요?')
 
 # 봇 실행
-client.run('')
+client.run('bot token')
